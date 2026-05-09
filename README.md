@@ -42,7 +42,7 @@ https://github.com/tacticlaunch/cursor-bank/tree/main/.cursor/rules
 - For exists project write to Cursor agent:
   
 ```bash
-cursor-bank init
+initialize memory bank
 ```
 
 - For new project I would recommend this flow:
