@@ -39,7 +39,12 @@ https://github.com/tacticlaunch/cursor-bank/tree/main/.cursor/rules
 
 ## After Installation
 
-- For exists project write to Cursor agent - **initialize memory bank**
+- For exists project write to Cursor agent:
+  
+```bash
+cursor-bank init
+```
+
 - For new project I would recommend this flow:
   - Write to Cursor agent
       ```
